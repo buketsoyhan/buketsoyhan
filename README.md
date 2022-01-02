@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there I'm Buket👋
 
-
-**buketsoyhan/buketsoyhan** 
+## I am a Computer Engineer
 
 - 🔭 I’m currently working on Web Developer 
 - 🌱 I’m currently learning JavaScript and React
