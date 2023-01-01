@@ -9,13 +9,15 @@
 
 - 🌱 I’m currently learning **JavaScript, React and Node.js**
 
-- 👨‍💻 I continue to develop myself actively in the field of Web development with Patika.dev education programs. This is my certificate for the Beginner Frontend Web Development Trail: [Link](https://app.patika.dev/certificates/g32WA7Y) This is my certificate for the Intermediate Frontend Web Development Trail: [Link](https://app.patika.dev/certificates/22efd47e))
+- 👨‍💻 I continue to develop myself actively in the field of Web development with Patika.dev education programs. 
+  <br>This is my certificate for the Beginner Frontend Web Development Trail: [Link](https://app.patika.dev/certificates/g32WA7Y) 
+  <br>This is my certificate for the Intermediate Frontend Web Development Trail: [Link](https://app.patika.dev/certificates/22efd47e)
 
 - 💬 **You can ask me a question so that you can get rid of what you are wondering about me.**
 
 - 📫 **This is my email address buketsoyhann@gmail.com**
 
-- 📄 Know about my experiences on [CV](https://drive.google.com/file/d/1gXVel5QTDVOx5AjwHHrUKQychKkziBT7/view?usp=sharing)
+- 📄 You can get to know me better from [CV](https://drive.google.com/file/d/1gXVel5QTDVOx5AjwHHrUKQychKkziBT7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
