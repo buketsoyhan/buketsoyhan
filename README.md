@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **JavaScript, React and Node.js**
 
-- 👨‍💻 All of my projects are available at [I continue to develop myself actively in the field of Web development with Patika.dev education programs. This is my certificate for the Beginner Frontend Web Development Trail: https://app.patika.dev/certificates/g32WA7Y This is my certificate for the Intermediate Frontend Web Development Trail: https://app.patika.dev/certificates/22efd47e](I continue to develop myself actively in the field of Web development with Patika.dev education programs. This is my certificate for the Beginner Frontend Web Development Trail: https://app.patika.dev/certificates/g32WA7Y This is my certificate for the Intermediate Frontend Web Development Trail: https://app.patika.dev/certificates/22efd47e)
+- 👨‍💻 I continue to develop myself actively in the field of Web development with Patika.dev education programs. This is my certificate for the Beginner Frontend Web Development Trail: [Link](https://app.patika.dev/certificates/g32WA7Y) This is my certificate for the Intermediate Frontend Web Development Trail: [Link](https://app.patika.dev/certificates/22efd47e))
 
-- 💬 Ask me about **You can ask me a question so that you can get rid of what you are wondering about me.**
+- 💬 **You can ask me a question so that you can get rid of what you are wondering about me.**
 
-- 📫 How to reach me **This is my email address buketsoyhann@gmail.com**
+- 📫 **This is my email address buketsoyhann@gmail.com**
 
-- 📄 Know about my experiences [You can check out my CV via this link https://drive.google.com/file/d/1gXVel5QTDVOx5AjwHHrUKQychKkziBT7/view?usp=sharing](You can check out my CV via this link https://drive.google.com/file/d/1gXVel5QTDVOx5AjwHHrUKQychKkziBT7/view?usp=sharing)
+- 📄 Know about my experiences on [CV](https://drive.google.com/file/d/1gXVel5QTDVOx5AjwHHrUKQychKkziBT7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
